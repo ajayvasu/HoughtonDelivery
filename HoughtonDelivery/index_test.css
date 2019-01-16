@@ -1,0 +1,16 @@
+#title_left{
+
+	float: left;
+
+}
+
+#welcomePic_right{
+	
+	content: url('images/Welcome.jpg');
+	width: 1000px;
+	height: 700px;
+	padding: none;
+	
+	
+}
+

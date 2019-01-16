@@ -1,0 +1,62 @@
+#backgrnd{
+	
+	background-image: url('images/Welcome.jpg');	
+	background-size: cover;
+	background-repeat: no-repeat;
+	opacity: 1;
+	height:100%;
+	width: 100%;
+
+}
+
+
+.addressPage{
+
+	font-family: Arial;
+}
+
+#siteName1{
+
+	color: black;
+	font-size: 35px;
+	font-family: Merriweather;
+	
+	font-weight: 900;
+	padding-top: 20px;
+
+}
+
+#siteName2{
+	
+	        color: black;
+        font-size: 35px;
+        font-family: Merriweather;
+	text-indent: 30px;
+
+        font-weight: 900;
+        padding-top: 20px;
+
+}
+
+.choose{
+	display: inline-block;
+}
+
+#boxy{
+
+	background-color: #f9f9f9;
+	width: 377px;
+	height: 800px;
+	border-radius: 12px;
+	margin: auto;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+}
+
+#textboxy{
+
+	position: relative;
+	width: 50%;
+	margin: auto;
+
+}

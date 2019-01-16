@@ -1,0 +1,19 @@
+.checkoutPage {
+
+        background-color: #f46542;
+        font-family: Arial;
+
+}
+
+.pressy{
+
+        background-color: #f9f9f9;
+        border-radius: 6px;
+        border: none;
+        color: #f46542;
+        height: 50px;
+        width: 115px;
+        font-weight: 700;
+	margin: 7px;
+
+}

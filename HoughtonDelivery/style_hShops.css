@@ -1,0 +1,56 @@
+.store{
+
+        background-color: #f46542;
+        font-family: Arial;
+
+}
+
+.card{
+
+	position: relative;
+	float: left;
+	background-color: #f9f9f9;
+	box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+	border-radius: 6px;
+	transition: 0.3s;
+	width: 18;
+	margin: 20px;
+
+}
+
+.desc{
+	
+	margin: auto;
+
+}
+
+img{
+	border-radius: 6px;
+	margin: 5px;
+
+}
+
+.pressy{
+
+        background-color: #f9f9f9;
+        border-radius: 6px;
+        border: none;
+        color: #f46542;
+        height: 50px;
+        width: 115px;
+        font-weight: 700;
+
+}
+
+#changeLoc{
+
+	position: absolute;
+	float: none;
+
+}
+
+#logout{
+
+	float: left;
+
+}
